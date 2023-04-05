@@ -35,8 +35,8 @@ HepG2	| 3K27me3	| 3k27me3StdAlnRep1.bam | ControlStdAlnRep1.bam
 ## CromHMM
 Emission | Overlap | Transition 
  --- | --- | ---
-![Image](D:\Study\3_COURSE\Биоинфроматика\HW_3(8)\emissions_15.png) | ![Image](D:\Study\3_COURSE\Биоинфроматика\HW_3(8)\HepG2_15_overlap.png) | ![Image](D:\Study\3_COURSE\Биоинфроматика\HW_3(8)\transitions_15.png)
+![Image](https://user-images.githubusercontent.com/104971016/230200728-7b990d57-fa2e-4757-bf52-9eda84f84919.png) | ![Image](https://user-images.githubusercontent.com/104971016/230200630-f271d923-17a6-4029-b65c-765ad709bf0f.png) | ![Image](https://user-images.githubusercontent.com/104971016/230200072-71382035-4afa-4289-8ed5-71c6852d89eb.png)
 
 RefSeqTSS | RefSeqTES 
  --- | --- 
-![Image](D:\Study\3_COURSE\Биоинфроматика\HW_3(8)\HepG2_15_RefSeqTSS_neighborhood.png) | ![Image](D:\Study\3_COURSE\Биоинфроматика\HW_3(8)\HepG2_15_RefSeqTES_neighborhood.png)
+![Image](https://user-images.githubusercontent.com/104971016/230200369-11488045-351a-41c6-bc20-d81dbc8777f1.png) | ![Image](https://user-images.githubusercontent.com/104971016/230200504-c93cf944-721a-4e43-942b-69fd509a8270.png)
